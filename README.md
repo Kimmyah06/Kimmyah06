@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kimmyah06 (Kimberly Marie Arias)
+#  Hi, I'm Kimmyah06 👋
 
 🎓 **Bachelor of Science in Information Technology Graduate at Davao del Norte State College**  
 💻 **Technical Writer, QA Tester & Data Entry Specialist**  
