@@ -28,7 +28,7 @@
 
 ## 🚀 Highlight Project
 
-**Capstone: Water Level Monitoring & Automatic Water Pump System**  
+**Capstone: Ricedrops: Automated Irrigation with Water Level Indicator Based on Rice Stages System**  
 A smart solution using Arduino that monitors water levels and automates water pump operations for efficiency and safety.
 
 ---
